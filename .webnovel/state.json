@@ -1,9 +1,9 @@
 {
   "version": 1,
   "project": {
-    "title": "",
-    "genre": "",
-    "target_length": ""
+    "title": "凡人皆有道",
+    "genre": "男频长篇玄幻 / 东方玄幻 / 玄幻脑洞",
+    "target_length": "约300万字"
   },
   "current": {
     "volume": 1,
@@ -11,7 +11,27 @@
   },
   "chapters": {},
   "last_run": {
-    "stage": "init",
-    "status": "initialized"
+    "stage": "plan",
+    "status": "full_book_skill_ready"
+  },
+  "planning": {
+    "volumes": 10,
+    "volume_outlines_completed": 10,
+    "chapter_outlines": "on_demand",
+    "floating_chapters": true
+  },
+  "canon": {
+    "core_ability": "观道",
+    "core_limit": "沈砚看不见自己的道",
+    "theme": "凡人皆有道",
+    "seven_daos": [
+      "斩",
+      "渡生",
+      "杀",
+      "棋",
+      "武",
+      "梦",
+      "道外"
+    ]
   }
 }
