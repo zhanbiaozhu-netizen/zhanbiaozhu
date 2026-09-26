@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "project": {
+    "title": "",
+    "genre": "",
+    "target_length": ""
+  },
+  "current": {
+    "volume": 1,
+    "chapter": 1
+  },
+  "chapters": {},
+  "last_run": {
+    "stage": "init",
+    "status": "initialized"
+  }
+}
